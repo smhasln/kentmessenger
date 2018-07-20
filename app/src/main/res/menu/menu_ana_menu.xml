@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.kentkolej.messenger.AnaMenu">
+    <item
+        android:id="@+id/yeni_grup"
+        android:orderInCategory="100"
+        android:title="Yeni grup"
+        app:showAsAction="never" ></item>
+    <item
+        android:id="@+id/cikis"
+        android:orderInCategory="100"
+        android:title="Oturumu kapat"
+        app:showAsAction="never" ></item>
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kent Messenger</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="title_activity_sohbetler">Sohbetler</string>
+    <string name="tab_text_1">Kişiler</string>
+    <string name="tab_text_2">Sohbetler</string>
+    <string name="tab_text_3">Profil</string>
+    <string name="title_activity_ana_menu">Kent Messenger</string>
+</resources>
